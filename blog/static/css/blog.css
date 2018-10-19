@@ -10,6 +10,10 @@
     text-decoration: none;
 }
 
+.page-header-title {
+    text-align: center;
+}
+
 .content {
     margin-left: 40px;
 }
